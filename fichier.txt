@@ -1,0 +1,7 @@
+./assets/css/style.css
+./assets/images/banner.png
+./assets/images/logo.png
+./fichier.txt
+./index.html
+./pages/about.html
+./pages/contact.hmlt
