@@ -1,0 +1,16 @@
+.
+|-- arborescence.txt
+|-- assets
+|   |-- css
+|   |   `-- style.css
+|   |-- images
+|   |   |-- banner.png
+|   |   `-- logo.png
+|   `-- js
+|-- fichier.txt
+|-- index.html
+`-- pages
+    |-- about.html
+    `-- contact.hmlt
+
+5 directories, 8 files
